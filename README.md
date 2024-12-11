@@ -4,7 +4,7 @@
 ### Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)
 
 ![Exploit-kid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploit-kid&show_icons=true&theme=radical&icon_color=ff6347&title_color=ff4500)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exploit-kid&layout=compact&theme=radical&langs_count=6&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exploit-kid&layout=compact&theme=radical&langs_count=6&card_width=300&cache_seconds=1)
 
 ---
 

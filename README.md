@@ -2,7 +2,7 @@
 **The only way to get better at programming is to keep coding, breaking things, and fixing them.**
 
 
-### Front-End Dev | Fucking Loser | Chromebook Hacker (ik im a bad bad boy)
+### Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)
 
 ![Exploit-kid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploit-kid&show_icons=true&theme=radical&icon_color=ff6347&title_color=ff4500)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exploit-kid&layout=compact&theme=radical&langs_count=6&card_width=300)

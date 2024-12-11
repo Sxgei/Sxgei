@@ -1,4 +1,6 @@
-# Hi there, I'm Exploit-kid 👾
+# Hi there, I'm Exploit-kid  <img src="https://cdn3.emoji.gg/emojis/1855-shocked.png" alt="Shocked Emoji" width="30">
+
+
 **The only way to get better at programming is to keep coding, breaking things, and fixing them.**
 
 

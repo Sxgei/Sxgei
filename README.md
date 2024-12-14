@@ -6,7 +6,7 @@
 </b></h3>
 
 <p align="center">
-<img src="https://i.imghippo.com/files/gpPo2688Zis.png" alt="Exploit-kid Banner" width="800px" height="350px">
+<img src="https://i.imghippo.com/files/gpPo2688Zis.png" alt="Exploit-kid Banner" width="800px" height="400px">
 </p>
 
 

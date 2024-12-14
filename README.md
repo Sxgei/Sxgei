@@ -1,13 +1,19 @@
-# Hi there, I'm Exploit-kid  <img src="https://cdn3.emoji.gg/emojis/1855-shocked.png" alt="Shocked Emoji" width="30"> <img src="https://i.imghippo.com/files/rJl7263gK.png" alt="Shocked Emoji" width="30"> 
-**The only way to get better at programming is to keep coding, breaking things, and fixing them.**
+<h1 align="center"><b>Hi there, I'm Exploit-kid!</b></h1>
 
-### Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)
+<h3 align="center"><b>  
+  Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)  
+  <br>  
+</b></h3>
 
-![Exploit-kid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exploit-kid&show_icons=true&theme=radical&icon_color=ff6347&title_color=ff4500)  
+<p align="center">
+  <img src="https://i.imghippo.com/files/gpPo2688Zis.png" alt="Exploit-kid Banner" width="50%">
+</p>
+
+
 
 ---
-## 🛠 Skills
 
+## 🛠 Skills
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -34,13 +40,14 @@ In my free time, I love gaming, web development, and breaking stuff on my Chrome
 
 ### 🚀 Pinned Projects  
 [![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=exploit-kid&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed)
+
 ---
+
 ### Contributed To:
 nothing :(
 
-### 📞 Contact [ I'm a barbarian ]
+### 📞 Contact [I'm a barbarian]
 
 <a href="mailto:exploitkid@proton.me">
   <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail Icon" width="40" height="40" />
 </a>
-

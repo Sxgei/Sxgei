@@ -15,9 +15,12 @@ Hi, I'm **Exploit-kid!** I'm passionate about web development and creating cool 
 
 ---
 
-### 🚀 Featured Projects  
+### 🚀 Pinned Projects  
 [![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=exploit-kid&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed)
 ---
+### Contributed To:
+nothing :(
+
 ### 📞 Contact [ I'm a barbarian ]
 
 <a href="mailto:exploitkid@proton.me">

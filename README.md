@@ -42,7 +42,7 @@ In my free time, I love gaming, web development, and breaking stuff on my Chrome
 
 ---
 
-### Contributed To:
+### 🖐 Contributed To:
 nothing :(
 
 ### 📞 Contact [I'm a barbarian]

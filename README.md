@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Exploit-kid!</b></h1>
+<h1 align="center"><b>Hi there, I'm Exploit-kid!👋</b></h1>
 
 <h3 align="center"><b>  
   Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)  

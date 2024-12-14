@@ -45,8 +45,13 @@ In my free time, I love gaming, web development, and breaking stuff on my Chrome
 ### 🖐 Contributed To:
 nothing :(
 
-### 📞 Contact [I'm a barbarian]
+### 📞 Contact
 
 <a href="mailto:exploitkid@proton.me">
   <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail Icon" width="40" height="40" />
 </a>
+
+<a href="https://discord.com/users/Modsbanthisnigga" target="_blank">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord Icon" width="40" height="40" />
+</a>
+

@@ -16,9 +16,7 @@ Hi, I'm **Exploit-kid!** I'm passionate about web development and creating cool 
 ---
 
 ### 🚀 Featured Projects  
-[![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=exploit-kid&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed) [![Particle System](https://github-readme-stats.vercel.app/api/pin/?username=exploit-kid&repo=particle-system&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/particle-system)
-
-
+[![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=exploit-kid&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed) [!
 ---
 ### 📞 Contact [ I'm a barbarian ]
 

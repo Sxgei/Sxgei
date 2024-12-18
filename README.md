@@ -43,7 +43,7 @@ In my free time, I love gaming, web development, and breaking stuff on my Chrome
 ---
 
 ### 🖐 Contributed To:
-nothing :(
+[![Lunar Proxy](https://github-readme-stats.vercel.app/api/pin/?username=Lunar-Proxy&repo=Lunar&theme=radical&icon_color=8a2be2)](https://github.com/Lunar-Proxy/Lunar)
 
 ### 📞 Contact
 

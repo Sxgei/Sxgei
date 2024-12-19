@@ -29,7 +29,7 @@
 </div>
 
 ### 🔥 About Me  
-Hello! I'm Exploit-kid, a 13 year old web developer and student.  
+Hello! I'm Sage, a 13 year old web developer and student.  
 I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol).  
 In my free time, I love gaming, web development, and breaking stuff on my Chromebook!
 

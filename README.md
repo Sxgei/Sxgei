@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hi there, I'm Sage!👋</b></h1>
 <p align="center">
-  <img src="https://i.imghippo.com/files/tUWF8424MI.jpg" alt="Profile Picture" width="200" height="215" style="border-radius: 50%;">
+  <img src="https://i.imghippo.com/files/OgO2833qg.png" alt="Profile Picture" width="150" height="150">
 </p>
+
 
 
 <h3 align="center"><b>  

@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Sage!👋</b></h1>
 <p align="center">
-  <img src="https://i.imghippo.com/files/tUWF8424MI.jpg" alt="Profile Picture" width="200" height="250" style="border-radius: 50%;">
+  <img src="https://i.imghippo.com/files/tUWF8424MI.jpg" alt="Profile Picture" width="200" height="215" style="border-radius: 50%;">
 </p>
 
 

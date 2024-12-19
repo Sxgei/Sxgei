@@ -39,7 +39,7 @@ In my free time, I love gaming, web development, and breaking stuff on my Chrome
 ---
 
 ### 🚀 Pinned Projects  
-[![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=exploit-kid&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed)
+[![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed)
 
 ---
 

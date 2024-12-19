@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://i.imghippo.com/files/OgO2833qg.png" alt="Profile Picture" width="160" height="150">
 </p>
+<p align="center">
+  <b>Some random fucking cat lmao</b> <br>
+</p>
+
 
 
 

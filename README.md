@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Exploit-kid!👋</b></h1>
+<h1 align="center"><b>Hi there, I'm Sage!👋</b></h1>
 
 <h3 align="center"><b>  
   Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)  
@@ -6,7 +6,7 @@
 </b></h3>
 
 <p align="center">
-<img src="https://i.imghippo.com/files/gpPo2688Zis.png" alt="Exploit-kid Banner" width="800px" height="400px">
+<img src="" alt="Banner" width="800px" height="400px">
 </p>
 
 
@@ -47,9 +47,6 @@ In my free time, I love gaming, web development, and breaking stuff on my Chrome
 
 ### 📞 Contact
 
-<a href="mailto:exploitkid@proton.me">
-  <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail Icon" width="40" height="40" />
-</a>
 
 <a href="https://discord.com/users/Modsbanthisnigga" target="_blank">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord Icon" width="40" height="40" />

@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Sage!👋</b></h1>
 <p align="center">
-  <img src="https://i.imghippo.com/files/OgO2833qg.png" alt="Profile Picture" width="155" height="150">
+  <img src="Assets/pfp.png/" alt="Profile Picture" width="155" height="150">
 </p>
 <p align="center">
   <b>Some random fucking cat lmao</b> <br>

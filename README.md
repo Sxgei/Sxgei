@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi there, I'm Sage!👋</b></h1>
+<h1 align="center"><b>Hi there, I'm Sage!👋<img src "Assets/shocked-emoji.png" alt="Emoji" width="30" height="30" /></b></h1>
+
 <p align="center">
   <img src="Assets/pfp.png/" alt="Profile Picture" width="155" height="150">
 </p>

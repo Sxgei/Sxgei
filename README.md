@@ -60,15 +60,19 @@
 
 ---
 
-### 🚀 Pinned Projects  
+<h3 align="center">🚀 Pinned Projects</h3>
+
 [![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed)
 
 ---
 
-### 🖐 Contributed To:
+ <h3 align="center">🖐 Contributed To:</h3>
+
 [![Lunar Proxy](https://github-readme-stats.vercel.app/api/pin/?username=Lunar-Proxy&repo=Lunar&theme=radical&icon_color=8a2be2)](https://github.com/Lunar-Proxy/Lunar)
 
-### 📞 Contact
+---
+
+<h3 align="left">📞 Contact</h3>
 
 
 <a href="https://discord.com/users/Modsbanthisnigga" target="_blank">

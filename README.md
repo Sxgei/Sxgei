@@ -45,14 +45,18 @@
 
 ---
 
-
 <h3 align="center">🚀 Pinned Projects</h3>
 
 <p align="center" style="font-size: smaller;">
   <a href="https://github.com/sxgei/HTML-unleashed">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2" alt="HTML Unleashed" style="transform: scale(0.75);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2" alt="HTML Unleashed" style="width: 400px; margin: 0 15px;">
+  </a>
+  <a href="https://github.com/sxgei/discord-emoji-fetcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=discord-emoji-fetcher&theme=radical&icon_color=8a2be2" alt="Discord Emoji Fetcher" style="width: 350px; margin: 0 15px;">
   </a>
 </p>
+
+
 
 
 ---
@@ -70,7 +74,7 @@
 <h3 align="left">📞 Contact</h3>
 
 
-<a href="https://discord.com/users/Modsbanthisnigga" target="_blank">
+<a href="https://discord.com/users/Seraphvm_" target="_blank">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord Icon" width="40" height="40" />
 </a>
 

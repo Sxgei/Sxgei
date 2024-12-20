@@ -62,13 +62,22 @@
 
 <h3 align="center">🚀 Pinned Projects</h3>
 
-[![HTML Unleashed](https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2)](https://github.com/exploit-kid/HTML-unleashed)
+<p align="center" style="font-size: smaller;">
+  <a href="https://github.com/sxgei/HTML-unleashed">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2" alt="HTML Unleashed" style="transform: scale(0.75);">
+  </a>
+</p>
+
 
 ---
 
  <h3 align="center">🖐 Contributed To:</h3>
 
-[![Lunar Proxy](https://github-readme-stats.vercel.app/api/pin/?username=Lunar-Proxy&repo=Lunar&theme=radical&icon_color=8a2be2)](https://github.com/Lunar-Proxy/Lunar)
+<p align="center" style="font-size: smaller;">
+  <a href="https://github.com/Lunar-Proxy/Lunar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lunar-Proxy&repo=Lunar&theme=radical&icon_color=8a2be2" alt="Lunar Proxy" style="transform: scale(0.75);">
+  </a>
+</p>
 
 ---
 

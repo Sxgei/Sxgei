@@ -1,18 +1,13 @@
 <h1 align="center"><b>Hi there, I'm Sage!👋 </h1>
 
 <p align="center">
-  <img src="Assets/pfp.png/" alt="Profile Picture" width="155" height="150">
+  Hello! I'm Sage, a 13-year-old web developer and student. I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol). In my free time, I love gaming, web development, and breaking stuff on my Chromebook! I also have a special fondness for cats (as you could probably tell from my profile picture). 🐱
 </p>
 <p align="center">
-  <b>Some random fucking cat lmao</b> <br>
+  <b>- Currently building awesome stuff for $0 (hire me, though 👀).</b>
 </p>
 
 
-
-
-<h3 align="center"><b>  
-  Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)  
-  <br>  
 </b></h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sxgei&style=flat" alt="views" />
@@ -48,17 +43,6 @@
 
 ---
 
-
-<h3 align="center">🔥 About Me</h3>
-<p align="center">
-  Hello! I'm Sage, a 13-year-old web developer and student. I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol). In my free time, I love gaming, web development, and breaking stuff on my Chromebook! I also have a special fondness for cats (as you could probably tell from my profile picture). 🐱
-</p>
-<p align="center">
-  <b>- Currently building awesome stuff for $0 (hire me, though 👀).</b>
-</p>
-
-
----
 
 <h3 align="center">🚀 Pinned Projects</h3>
 

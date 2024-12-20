@@ -13,7 +13,9 @@
   Front-End Dev | Shitty Coder | Chromebook Hacker (ik im a bad bad boy)  
   <br>  
 </b></h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sxgei&style=flat" alt="views" />
+</p>
 
 ---
 

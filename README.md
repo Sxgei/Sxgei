@@ -1,5 +1,8 @@
 <h1 align="center"><b>Hi there, I'm Sage!👋 </h1>
 <p align="center">
+  <img src="Assets/profile.png/" alt="Profile Picture" width="155" height="150">
+</p>
+<p align="center">
   Hello! I'm Sage, a 13-year-old web developer and student. I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol). In my free time, I love gaming, web development, and breaking stuff on my Chromebook!
 </p>
 <p align="center">

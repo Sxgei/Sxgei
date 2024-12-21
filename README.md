@@ -3,7 +3,7 @@
   <img src="Assets/profilepic.png/" alt="Profile Picture" width="155" height="150">
 </p>
 <p align="center">
-  Hello! I'm Sage, a 13-year-old web developer and student. I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol). In my free time, I love gaming, web development, and breaking stuff on my Chromebook! I also have a special fondness for cats (as you could probably tell from my profile picture). 🐱
+  Hello! I'm Sage, a 13-year-old web developer and student. I started coding when I was around 10 (not totally sure tbh), and I've been grinding ever since (lol). In my free time, I love gaming, web development, and breaking stuff on my Chromebook!
 </p>
 <p align="center">
   <b>- Currently building awesome stuff for $0 (hire me, though 👀).</b>

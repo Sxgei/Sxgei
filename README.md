@@ -60,10 +60,6 @@
 <p align="center" style="font-size: smaller;">
   <a href="https://github.com/sxgei/HTML-unleashed">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=HTML-unleashed&theme=radical&icon_color=8a2be2" alt="HTML Unleashed" style="width: 400px; margin: 0 15px;">
-  </a>
-  <a href="https://github.com/sxgei/discord-emoji-fetcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sxgei&repo=discord-emoji-fetcher&theme=radical&icon_color=8a2be2" alt="Discord Emoji Fetcher" style="width: 340px; margin: 0 15px;">
-  </a>
 </p>
 
 

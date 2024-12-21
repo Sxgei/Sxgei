@@ -84,7 +84,7 @@
 <h3 align="left">📞 Contact</h3>
 
 
-<a href="https://discord.com/users/Seraphvm_" target="_blank">
+<a href="https://discord.com/users/Sxgei" target="_blank">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord Icon" width="40" height="40" />
 </a>
 
